@@ -1,0 +1,47 @@
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Pico Web.dll.config
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Pico Web.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Pico Web.pdb
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Pico Web.xml
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\csc.exe
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\csc.exe.config
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\csc.rsp
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\csi.exe
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\csi.rsp
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.CSharp.Core.targets
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\System.AppContext.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\System.Collections.Immutable.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\System.IO.FileSystem.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\System.Reflection.Metadata.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\vbc.exe
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\vbc.exe.config
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\vbc.rsp
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\VBCSCompiler.exe
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\roslyn\VBCSCompiler.exe.config
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\FusionCharts.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\IBM.Data.DB2.iSeries.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Newtonsoft.Json.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\IBM.Data.DB2.iSeries.xml
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\bin\Newtonsoft.Json.xml
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web2.vbproj.AssemblyReference.cache
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Interop.cwbx.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web2.vbproj.ResolveComReference.cache
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico_Web.Resources.resources
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web2.vbproj.GenerateResource.cache
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web2.vbproj.CoreCompileInputs.cache
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web2.vbproj.CopyComplete
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web.dll
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web.xml
+\\192.168.0.2\Server\PROGRAMMI VB\ARA\Pico\Pico Web\(10) 10042023\Pico Web\obj\Release\Pico Web.pdb

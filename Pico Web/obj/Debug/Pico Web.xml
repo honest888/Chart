@@ -1,0 +1,842 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pico Web
+</name>
+</assembly>
+<members>
+<member name="T:Pico_Web.My.MyWebExtension">
+ <summary>
+ Modulo utilizzato per definire le proprietà disponibili nello spazio dei nomi My per i progetti Web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Pico_Web.My.MyWebExtension.Computer">
+ <summary>
+ Restituisce informazioni sul computer host.
+ </summary>
+</member>
+<member name="P:Pico_Web.My.MyWebExtension.User">
+ <summary>
+ Restituisce informazioni sull'utente Web corrente.
+ </summary>
+</member>
+<member name="P:Pico_Web.My.MyWebExtension.Request">
+ <summary>
+ Restituisce l'oggetto Request.
+ </summary>
+</member>
+<member name="P:Pico_Web.My.MyWebExtension.Response">
+ <summary>
+ Restituisce l'oggetto Response.
+ </summary>
+</member>
+<member name="P:Pico_Web.My.MyWebExtension.Log">
+ <summary>
+ Restituisce l'oggetto AspLog.
+ </summary>
+</member>
+<member name="F:Pico_Web.chart._form1">
+<summary>
+Controllo form1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Timer1">
+<summary>
+Controllo Timer1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._ScriptManager1">
+<summary>
+Controllo ScriptManager1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Table1">
+<summary>
+Controllo Table1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._drpdwnlstMC">
+<summary>
+Controllo drpdwnlstMC.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._UpdatePanel1">
+<summary>
+Controllo UpdatePanel1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Label2">
+<summary>
+Controllo Label2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._ImageButton2">
+<summary>
+Controllo ImageButton2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._DropDownList1">
+<summary>
+Controllo DropDownList1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._UpdatePanel3">
+<summary>
+Controllo UpdatePanel3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Label3">
+<summary>
+Controllo Label3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._ImageButton1">
+<summary>
+Controllo ImageButton1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._DropDownList2">
+<summary>
+Controllo DropDownList2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._UpdatePanel2">
+<summary>
+Controllo UpdatePanel2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._TextBox1">
+<summary>
+Controllo TextBox1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Button1">
+<summary>
+Controllo Button1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Button6">
+<summary>
+Controllo Button6.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Label1">
+<summary>
+Controllo Label1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._up1">
+<summary>
+Controllo up1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Calendar1">
+<summary>
+Controllo Calendar1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Button3">
+<summary>
+Controllo Button3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Button2">
+<summary>
+Controllo Button2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._UpdatePanel4">
+<summary>
+Controllo UpdatePanel4.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Calendar2">
+<summary>
+Controllo Calendar2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Button4">
+<summary>
+Controllo Button4.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.chart._Button5">
+<summary>
+Controllo Button5.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.gantt._form1">
+<summary>
+Controllo form1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._form1">
+<summary>
+Controllo form1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Table1">
+<summary>
+Controllo Table1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._drpdwnlstMC">
+<summary>
+Controllo drpdwnlstMC.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button2">
+<summary>
+Controllo Button2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button1">
+<summary>
+Controllo Button1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button5">
+<summary>
+Controllo Button5.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button3">
+<summary>
+Controllo Button3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button7">
+<summary>
+Controllo Button7.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Label2">
+<summary>
+Controllo Label2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._corpo">
+<summary>
+Controllo corpo.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Table2">
+<summary>
+Controllo Table2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Label1">
+<summary>
+Controllo Label1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox2">
+<summary>
+Controllo TextBox2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Table3">
+<summary>
+Controllo Table3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList1">
+<summary>
+Controllo DropDownList1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox3">
+<summary>
+Controllo TextBox3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList13">
+<summary>
+Controllo DropDownList13.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList2">
+<summary>
+Controllo DropDownList2.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList18">
+<summary>
+Controllo DropDownList18.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList3">
+<summary>
+Controllo DropDownList3.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox5">
+<summary>
+Controllo TextBox5.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList14">
+<summary>
+Controllo DropDownList14.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList4">
+<summary>
+Controllo DropDownList4.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList19">
+<summary>
+Controllo DropDownList19.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList5">
+<summary>
+Controllo DropDownList5.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox7">
+<summary>
+Controllo TextBox7.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList15">
+<summary>
+Controllo DropDownList15.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList6">
+<summary>
+Controllo DropDownList6.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList20">
+<summary>
+Controllo DropDownList20.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList7">
+<summary>
+Controllo DropDownList7.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox9">
+<summary>
+Controllo TextBox9.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList16">
+<summary>
+Controllo DropDownList16.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList8">
+<summary>
+Controllo DropDownList8.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList21">
+<summary>
+Controllo DropDownList21.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList9">
+<summary>
+Controllo DropDownList9.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox11">
+<summary>
+Controllo TextBox11.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList17">
+<summary>
+Controllo DropDownList17.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList10">
+<summary>
+Controllo DropDownList10.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList22">
+<summary>
+Controllo DropDownList22.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList11">
+<summary>
+Controllo DropDownList11.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList12">
+<summary>
+Controllo DropDownList12.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._DropDownList23">
+<summary>
+Controllo DropDownList23.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox10">
+<summary>
+Controllo TextBox10.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox13">
+<summary>
+Controllo TextBox13.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox14">
+<summary>
+Controllo TextBox14.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox16">
+<summary>
+Controllo TextBox16.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._CheckBox1">
+<summary>
+Controllo CheckBox1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox15">
+<summary>
+Controllo TextBox15.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button4">
+<summary>
+Controllo Button4.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button6">
+<summary>
+Controllo Button6.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._divmail">
+<summary>
+Controllo divmail.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Table4">
+<summary>
+Controllo Table4.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox1">
+<summary>
+Controllo TextBox1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox4">
+<summary>
+Controllo TextBox4.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox6">
+<summary>
+Controllo TextBox6.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox8">
+<summary>
+Controllo TextBox8.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._TextBox12">
+<summary>
+Controllo TextBox12.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button8">
+<summary>
+Controllo Button8.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button9">
+<summary>
+Controllo Button9.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.index._Button10">
+<summary>
+Controllo Button10.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.log._form1">
+<summary>
+Controllo form1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+<member name="F:Pico_Web.log._GridView1">
+<summary>
+Controllo GridView1.
+</summary>
+<remarks>
+Campo generato automaticamente.
+Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+</remarks>
+</member>
+</members>
+</doc>
